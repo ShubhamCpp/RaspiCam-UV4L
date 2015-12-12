@@ -65,10 +65,10 @@ Check and write down the inet addr at eth0 for a wired connection
   
 To see the streaming follow the next steps:
 
-- Open a browser
+1. Open a browser
 
-- Type your Raspberry IP followed by the external/public port (http://RaspberryIP:9090/stream)
-- 
+2. Type your Raspberry IP followed by the external/public port (http://RaspberryIP:9090/stream)
+
 And boom...!!!! You're done. Now you can view the Stream from your favourite Web Browser. 
 
 Note :- Tested for Linux,Mac OSX and Windows Systems.
