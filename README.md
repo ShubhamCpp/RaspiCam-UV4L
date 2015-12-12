@@ -53,7 +53,11 @@ Then clone this repository using `git clone <git repo URL>`.
 
 Now run the Shell Script
 
-` ./stream_uv4l.sh `
+` ./stream_uv4l.sh ` (mpeg encoding)
+
+    or
+    
+` ./stream_uv4l_h264.sh ` (h264 encoding)
 
 Alternatively you can write on the Terminal directly :-
 
@@ -64,6 +68,9 @@ Notes:
 The --port=9090 is the local IP port. You can use any port you like.
 
 The --max-streams=25 is the maximum simultaneous streams.
+
+Here the encoding is mjpeg. You can also use h264 for h264 encoding also.
+Just Replace mjpeg with h264 in the command or run the h264 script given as ` ./stream_uv4l_h264.sh `.
 
 ### Knowing your Raspberry Pi's Local IP Address :-
 
