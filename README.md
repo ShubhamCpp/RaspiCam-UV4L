@@ -79,14 +79,17 @@ This is one of the best of solutions and it gets the job done with very little l
 For more details go to my GitHub Account Page : [ShubhamCpp](https://github.com/ShubhamCpp)
 Here I have explored various other technologies, these include :-
 
-1. MJPEG (Discussed here) using HTTP Web Sockets
+1. MJPEG using HTTP Web Sockets
 
 2. FFMPEG using HTTP Web Sockets
 
 3. Gstreamer (Best in my opinion)
 
-4. UV4L and UV4L-Raspicam
+4. UV4L and UV4L-Raspicam (Discussed here) 
 
 I got the best experience with Gstreamer for my application, however you may feel that something else works out for you better. This will depend on the application you are developing. I'll be happy if anyone of the following help you out in some way. :)
+
+
+
 
 
